@@ -25,5 +25,5 @@ Pod::Spec.new do |s|
   s.osx.framework = 'CoreServices'
 
   s.osx.deployment_target = "10.8"
-  s.ios.deployment_target = "6.1"
+  s.ios.deployment_target = "6.0"
 end
